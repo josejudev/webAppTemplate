@@ -1,0 +1,5 @@
+#ignore tomcat folder
+/apache-tomcat-10.1.0-M17
+
+#ignore deploy folder
+/target

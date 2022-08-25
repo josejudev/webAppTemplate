@@ -1,0 +1,9 @@
+#How to run
+run > profile
+
+tomcat7
+
+tomcat7:redeploy
+
+#Java Version
+JDK 18
